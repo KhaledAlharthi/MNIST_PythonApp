@@ -1,5 +1,5 @@
 
-# Digit Recognition
+# Overview
 A Python app to predict hand-written digits based on CNN model trained on MNIST dataset with Keras.
 
 
