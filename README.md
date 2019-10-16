@@ -18,5 +18,5 @@ python app.py
 You can contribute by
 
 1. refactoring code
-2. beterr preprocessing input before passing to model
+2. preprocessing input before passing to model
 3. training a better model
