@@ -5,11 +5,12 @@ A Python app to predict hand-written digits based on CNN model trained on MNIST 
 
 # How To Run
 
-you can run the app by simply
+You can run the app by simply running:
 
 ```shell
 python app.py
 ```
+You must have `Keras` and `Tensorflow` installed.
 
 # Demo
 ![](demo.gif)
